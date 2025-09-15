@@ -17,7 +17,7 @@ public class OOP {
         // TODO code application logic here
         Buku buku1 = new Buku();
         buku1.judul ="Belajar OOP Java";
-        buku1.penulis ="Budi Nugroho";
+        buku1.penulis ="Budi Safta Nugraha";
         buku1.penerbit ="Erlangga";
         buku1.tahun_terbit = 2003 ;
         
